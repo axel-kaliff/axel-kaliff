@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @axel-kaliff
+# 👋 Hi, I’m Axel Kaliff
 
 - 👀 I like to build Machine Learning projects using Deep Learning and every new technology I can get my hands on 
 - 🌱 I’m currently leveling up my skills in Scalable Deep Learning and Reinforcement Learning
