@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @axel-kaliff
-- 👀 I’m interested in Machine Learning and Deep Neural Nets
-- 🌱 I’m currently learning Scalable Deep Learning and Reinforcement Learning
+# 👋 Hi, I’m @axel-kaliff
+
+- 👀 I like to build Machine Learning projects using Deep Learning and every new technology I can get my hands on 
+- 🌱 I’m currently leveling up my skills in Scalable Deep Learning and Reinforcement Learning
 - - 📫 How to reach me: akaliff@kth.se
 
 <!---
