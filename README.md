@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Axel Kaliff
 
-- 👀 I like to build Machine Learning projects using Deep Learning and every new technology I can get my hands on 
-- 🌱 I’m currently leveling up my skills in Scalable Deep Learning and Reinforcement Learning
+- 👀 I like to build scalabale and distributed systems, recently in the field of robotics
+- 🌱 I’m a research engineer at the Royal Institute of Technology (KTH), Stockholm
 - - 📫 How to reach me: akaliff@kth.se
 
 <!---
